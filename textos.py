@@ -76,62 +76,62 @@ Antes de continuar vamos testar se você aprendeu mesmo… vale { } pontos:''',
          "ódio / saguão / leal / poeira",
          "quais / fugiu / caiu / história",
      ]},
-    "Vamos lá? ﾟ *｡(･∀･)ﾟ *｡",
-    "....A ortografia se caracteriza por estabelecer padrões para a forma escrita das palavras…",
-    "Vamos começar pelo emprego(não, o x não trabalha （●＞ω＜●）) do x...",
-    "Podemos colocar o x...",
-    "...após um ditongo:",
-    "Exemplos: caixa, frouxo, peixe",
-    "...Após a sílaba inicial en:",
-    "Exemplos: enxame, enxada, enxaqueca",
-    "Exceção: palavras iniciadas por ch que recebem o prefixo en-",
-    "Exemplos: encharcar (de charco), enchiqueirar (de chiqueiro), encher e seus derivados (enchente, enchimento, preencher...)",
-    "...Após a sílaba inicial me-:",
-    "Exemplos: mexer, mexerica, mexicano, mexilhão",
-    "Exceção: mecha",
-    "E nas seguintes palavras também usamos o x （*´▽`*):",
-    "bexiga, bruxa, coaxar, faxina, graxa, lagartixa, lixa, lixo, puxar, rixa, oxalá, praxe, roxo, vexame, xadrez, xarope, xaxim, xícara, xale, xingar, etc.",
-    "Os demais empregos adquirimos com a experiência, ou seja, devemos sempre ler para enriquecer nosso vocabulário tá okay?  d(^^*)",
-    "Agora, o emprego do ch   o(^▽^)o:",
-    "o ch é empregado nos seguintes vocábulos:",
-    "bochecha, bucha, cachimbo, chalé, charque, chimarrão, chuchu, chute, cochilo, debochar, fachada, fantoche, ficha, flecha, mochila, pechincha, salsicha, tchau, etc.",
-    "Chegou a hora do emprego do S:",
-    "Nas palavras derivadas de outras que já apresentam s:",
-    "Exemplos:",
-    "análise - analisar",
-    "catálise - catalisador",
-    "casa - casinha, casebre",
-    "liso - alisar",
-    "Nos sufixos -ês e -esa, ao indicarem nacionalidade, título ou origem",
-    "Exemplos:",
-    "burguês - burguesa",
-    "inglês - inglesa",
-    "chinês - chinesa",
-    "milanês - milanesa",
-    "Nos sufixos formadores de adjetivos -ense, -oso e -osa",
-    "Exemplos:",
-    "catarinense",
-    "gostoso - gostosa",
-    "amoroso - amorosa",
-    "palmeirense",
-    "gasoso - gasosa",
-    "teimoso -teimosa",
-    "...Nos sufixos gregos -ese, -isa, -ose",
-    "Exemplos:",
-    "catequese, diocese, poetisa, profetisa, sacerdotisa, glicose, metamorfose, virose",
-    "...Após ditongos",
-    "Exemplos:",
-    "coisa, pouso, lousa, náusea",
-    "...Nas formas dos verbos pôr e querer, bem como em seus derivados",
-    "Exemplos:",
-    "pus, pôs, pusemos, puseram, pusera, pusesse, puséssemos",
-    "quis, quisemos, quiseram, quiser, quisera, quiséssemos",
-    "repus, repusera, repusesse, repuséssemos",
-    "...Nos seguintes nomes próprios personativos:",
-    "Baltasar, Heloísa, Inês, Isabel, Luís, Luísa, Resende, Sousa, Teresa, Teresinha, Tomás",
-    "...Nos seguintes vocábulos:",
-    "abuso, asilo, através, aviso, besouro, brasa, cortesia, decisão,despesa, empresa, freguesia, fusível, maisena, mesada, paisagem, paraíso, pêsames, presépio, presídio, querosene, raposa, surpresa, tesoura, usura, vaso, vigésimo, visita, etc.",
-    "Vamos praticar? y（^ヮ^）y",
+    '''Vamos lá? ﾟ *｡(･∀･)ﾟ *｡",
+...A ortografia se caracteriza por estabelecer padrões para a forma escrita das palavras…
+Vamos começar pelo emprego (não, o x não trabalha （●＞ω＜●）) do x...''',
+    '''Podemos colocar o x...
+...após um ditongo:
+Exemplos: caixa, frouxo, peixe
+...Após a sílaba inicial en:
+Exemplos: enxame, enxada, enxaqueca
+Exceção: palavras iniciadas por ch que recebem o prefixo en-
+Exemplos: encharcar (de charco), enchiqueirar (de chiqueiro), encher e seus derivados (enchente, enchimento, preencher...)
+...Após a sílaba inicial me-:
+Exemplos: mexer, mexerica, mexicano, mexilhão
+Exceção: mecha''',
+    '''E nas seguintes palavras também usamos o x （*´▽`*):
+bexiga, bruxa, coaxar, faxina, graxa, lagartixa, lixa, lixo, puxar, rixa, oxalá, praxe, roxo, vexame, xadrez, xarope, xaxim, xícara, xale, xingar, etc.
+Os demais empregos adquirimos com a experiência, ou seja, devemos sempre ler para enriquecer nosso vocabulário tá okay?  d(^^*)''',
+    '''Agora, o emprego do ch   o(^▽^)o:
+o ch é empregado nos seguintes vocábulos:
+bochecha, bucha, cachimbo, chalé, charque, chimarrão, chuchu, chute, cochilo, debochar, fachada, fantoche, ficha, flecha, mochila, pechincha, salsicha, tchau, etc.''',
+    '''Chegou a hora do emprego do S:
+Nas palavras derivadas de outras que já apresentam s:
+Exemplos:
+análise - analisar
+catálise - catalisador
+casa - casinha, casebre
+liso - alisar''',
+    '''Nos sufixos -ês e -esa, ao indicarem nacionalidade, título ou origem
+Exemplos:
+burguês - burguesa
+inglês - inglesa
+chinês - chinesa
+milanês - milanesa''',
+    '''Nos sufixos formadores de adjetivos -ense, -oso e -osa
+Exemplos:
+catarinense
+gostoso - gostosa
+amoroso - amorosa
+palmeirense
+gasoso - gasosa
+teimoso -teimosa''',
+    '''...Nos sufixos gregos -ese, -isa, -ose
+Exemplos:
+catequese, diocese, poetisa, profetisa, sacerdotisa, glicose, metamorfose, virose
+...Após ditongos
+Exemplos:
+coisa, pouso, lousa, náusea
+...Nas formas dos verbos pôr e querer, bem como em seus derivados
+Exemplos:
+pus, pôs, pusemos, puseram, pusera, pusesse, puséssemos
+quis, quisemos, quiseram, quiser, quisera, quiséssemos
+repus, repusera, repusesse, repuséssemos''',
+    '''...Nos seguintes nomes próprios personativos:
+Baltasar, Heloísa, Inês, Isabel, Luís, Luísa, Resende, Sousa, Teresa, Teresinha, Tomás''',
+    '''...Nos seguintes vocábulos:
+abuso, asilo, através, aviso, besouro, brasa, cortesia, decisão,despesa, empresa, freguesia, fusível, maisena, mesada, paisagem, paraíso, pêsames, presépio, presídio, querosene, raposa, surpresa, tesoura, usura, vaso, vigésimo, visita, etc.
+Vamos praticar? y（^ヮ^）y''',
     {"tipo": "pergunta",
      "texto": "Marque a alternativa em que todas as lacunas devem ser preenchidas com (s).",
      "solucao": "d",
@@ -213,7 +213,7 @@ Antes de continuar vamos testar se você aprendeu mesmo… vale { } pontos:''',
 
 nivel_2 = [
     {"tipo": "solicitar_codigo",
-    "codigo_correto": "@neeko#2"},
+     "codigo_correto": "@neeko#2"},
     "Bom, parece que você escolheu o nível intermediário...",
     "Vamos lá!! ⊂（♡⌂♡）⊃",
     "Nesse nível estudaremos a morfologia...",
