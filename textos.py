@@ -142,41 +142,41 @@ Vamos praticar? y（^ヮ^）y''',
          "atravé _ , atra _ ado, can _ ado.",
          "anali _ ando, e _ trair, e_ plendor.",
      ]},
-    "Agora veremos estudaremos o uso da letra z, podemos usar...",
-    "...Nas palavras derivadas de outras que já apresentam z no radical. Exemplos:",
-    "deslize- deslizar",
-    "razão- razoável",
-    "vazio- esvaziar",
-    "raiz- enraizar",
-    "cruz-cruzeiro",
-    "Nos sufixos -ez, -eza, ao formarem substantivos abstratos a partir de adjetivos",
-    "Exemplos:",
-    "inválido- invalidez",
-    "limpo-limpeza",
-    "macio- maciez",
-    "rígido- rigidez",
-    "frio- frieza",
-    "nobre- nobreza",
-    "pobre-pobreza",
-    "surdo- surdez",
-    "Nos sufixos -izar, ao formar verbos e -ização, ao formar substantivos, alguns exemplos:",
-    "civilizar- civilização",
-    "hospitalizar- hospitalização",
-    "colonizar- colonização",
-    "realizar- realização",
-    "Nos derivados em -zal, -zeiro, -zinho, -zinha, -zito, -zita",
-    "Exemplos:",
-    "cafezal, cafezeiro, cafezinho, arvorezinha, cãozito, avezita",
-    "Nos seguintes vocábulos:",
-    "azar, azeite, azedo, amizade, buzina, bazar, catequizar, chafariz, cicatriz, coalizão, cuscuz, proeza, vizinho, xadrez, verniz, etc.",
-    "Nos vocábulos homófonos, estabelecendo distinção no contraste entre o S e o Z",
-    "Exemplos:",
-    "cozer (cozinhar) e coser (costurar)",
-    "prezar( ter em consideração) e presar (prender)",
-    "traz (forma do verbo trazer) e trás (parte posterior)",
-    "Observação: em muitas palavras, a letra X soa como Z. Veja os exemplos:",
-    "exame - exato - exemplo - existir - exótico - inexorável",
-    "Hora dos pontinhos… (⊙ꇴ⊙)d:",
+    '''Agora veremos estudaremos o uso da letra z, podemos usar...
+...Nas palavras derivadas de outras que já apresentam z no radical. Exemplos:
+deslize- deslizar
+razão- razoável
+vazio- esvaziar
+raiz- enraizar
+cruz-cruzeiro''',
+    '''Nos sufixos -ez, -eza, ao formarem substantivos abstratos a partir de adjetivos
+Exemplos:
+inválido- invalidez
+limpo-limpeza
+macio- maciez
+rígido- rigidez
+frio- frieza
+nobre- nobreza
+pobre-pobreza
+surdo- surdez''',
+    '''Nos sufixos -izar, ao formar verbos e -ização, ao formar substantivos, alguns exemplos:
+civilizar- civilização
+hospitalizar- hospitalização
+colonizar- colonização
+realizar- realização''',
+    '''Nos derivados em -zal, -zeiro, -zinho, -zinha, -zito, -zita
+Exemplos:
+cafezal, cafezeiro, cafezinho, arvorezinha, cãozito, avezita
+Nos seguintes vocábulos:
+azar, azeite, azedo, amizade, buzina, bazar, catequizar, chafariz, cicatriz, coalizão, cuscuz, proeza, vizinho, xadrez, verniz, etc.''',
+    '''Nos vocábulos homófonos, estabelecendo distinção no contraste entre o S e o Z
+Exemplos:
+cozer (cozinhar) e coser (costurar)
+prezar( ter em consideração) e presar (prender)
+traz (forma do verbo trazer) e trás (parte posterior)''',
+    '''Observação: em muitas palavras, a letra X soa como Z. Veja os exemplos:
+exame - exato - exemplo - existir - exótico - inexorável
+Hora dos pontinhos… (⊙ꇴ⊙)d:''',
     {"tipo": "pergunta",
      "texto": "Assinale a alternativa cujas palavras estão todas corretamente grafadas.",
      "solucao": "d",
@@ -214,38 +214,37 @@ Vamos praticar? y（^ヮ^）y''',
 nivel_2 = [
     {"tipo": "solicitar_codigo",
      "codigo_correto": "@neeko#2"},
-    "Bom, parece que você escolheu o nível intermediário...",
-    "Vamos lá!! ⊂（♡⌂♡）⊃",
-    "Nesse nível estudaremos a morfologia...",
-    "A Morfologia é o estudo da estrutura, da formação e da classificação das palavras. A peculiaridade da morfologia é estudar as palavras olhando para elas isoladamente e não dentro da sua participação na frase ou período.",
-    "Vamos começar estudando substantivo!!",
-    "# Substantivo",
-    "Substantivo é a classe gramatical de palavras variáveis, as quais denominam os seres. Além de objetos, pessoas e fenômenos, os substantivos também nomeiam: lugares, sentimentos, estados, qualidades e ações (*^-^)",
-    "# Substantivo comum"
-    "Substantivo Comum é aquele que designa os seres de uma mesma espécie de forma genérica.",
-    "vejamos um exemplo:",
-    "a definição de cidade segundo um dicionário: s.f. 1: Povoação maior que vila, com muitas casas e edifícios, dispostos em ruas e avenidas (no Brasil, toda a sede de município é cidade)...",
-    "esta definição, considerada genérica, é usada para expressar o que é uma cidade...",
-    "Portanto, cidade é um substantivo comum! (∩_∩)",
-    "# Substantivo próprio",
-    "Estamos voando para Barcelona.",
-    "O substantivo Barcelona designa apenas um ser da espécie cidade. Esse substantivo é próprio.",
-    "Substantivo Próprio é aquele que designa os seres de uma mesma espécie de forma particular.",
-    "# Substantivo concreto",
-    "Os substantivos lâmpada e mala designam seres com existência própria, que são independentes de outros seres. São assim, substantivos concretos.",
-    "Substantivo Concreto é aquele que designa o ser que existe, independentemente de outros seres.",
-    "Obs.: os substantivos concretos designam seres do mundo real e do mundo imaginário.",
-    "Seres do mundo real: homem, mulher, cadeira, cobra, Brasília, etc.",
-    "Seres do mundo imaginário: saci, mãe-d'água, fantasma, etc.",
-    "# Substantivo abstrato",
-    "exemplo1: Beleza exposta",
-    "exemplo2: Jovens atrizes veteranas destacam-se pelo visual.",
-    "O substantivo beleza designa uma qualidade.",
-    "Substantivo Abstrato é aquele que designa seres que dependem de outros para se manifestar ou existir.",
-    "Pense bem: a beleza não existe por si só, não pode ser observada. Só podemos observar a beleza numa pessoa ou coisa que seja bela. A beleza depende de outro ser para se manifestar. Portanto, a palavra beleza é um substantivo abstrato.",
-    "Os substantivos abstratos designam estados, qualidades, ações e sentimentos dos seres, dos quais podem ser abstraídos, e sem os quais não podem existir. Por exemplo:",
-    "# Grau do substantivo",
-    "Hora de praticar o(^▽^)o",
+    '''Bom, parece que você escolheu o nível intermediário...
+Vamos lá!! ⊂（♡⌂♡）⊃''',
+    '''Nesse nível estudaremos a morfologia...
+A Morfologia é o estudo da estrutura, da formação e da classificação das palavras. A peculiaridade da morfologia é estudar as palavras olhando para elas isoladamente e não dentro da sua participação na frase ou período.
+Vamos começar estudando substantivo!!''',
+    '''# Substantivo
+Substantivo é a classe gramatical de palavras variáveis, as quais denominam os seres. Além de objetos, pessoas e fenômenos, os substantivos também nomeiam: lugares, sentimentos, estados, qualidades e ações (*^-^)''',
+    '''## Substantivo comum"
+Substantivo Comum é aquele que designa os seres de uma mesma espécie de forma genérica.
+vejamos um exemplo:
+a definição de cidade segundo um dicionário: s.f. 1: Povoação maior que vila, com muitas casas e edifícios, dispostos em ruas e avenidas (no Brasil, toda a sede de município é cidade)...
+esta definição, considerada genérica, é usada para expressar o que é uma cidade...
+Portanto, cidade é um substantivo comum! (∩_∩)''',
+    '''## Substantivo próprio
+Estamos voando para Barcelona.
+O substantivo Barcelona designa apenas um ser da espécie cidade. Esse substantivo é próprio.
+Substantivo Próprio é aquele que designa os seres de uma mesma espécie de forma particular.''',
+    '''## Substantivo concreto
+Os substantivos lâmpada e mala designam seres com existência própria, que são independentes de outros seres. São assim, substantivos concretos.
+Substantivo Concreto é aquele que designa o ser que existe, independentemente de outros seres.
+Obs.: os substantivos concretos designam seres do mundo real e do mundo imaginário.
+Seres do mundo real: homem, mulher, cadeira, cobra, Brasília, etc.
+Seres do mundo imaginário: saci, mãe-d'água, fantasma, etc.''',
+    '''## Substantivo abstrato
+exemplo1: Beleza exposta
+exemplo2: Jovens atrizes veteranas destacam-se pelo visual.
+O substantivo beleza designa uma qualidade.
+Substantivo Abstrato é aquele que designa seres que dependem de outros para se manifestar ou existir.
+Pense bem: a beleza não existe por si só, não pode ser observada. Só podemos observar a beleza numa pessoa ou coisa que seja bela. A beleza depende de outro ser para se manifestar. Portanto, a palavra beleza é um substantivo abstrato.
+Os substantivos abstratos designam estados, qualidades, ações e sentimentos dos seres, dos quais podem ser abstraídos, e sem os quais não podem existir.''',
+    '''Hora de praticar o(^▽^)o''',
     {"tipo": "pergunta",
      "texto": "Há três substantivos em",
      "solucao": "d",
@@ -256,43 +255,43 @@ nivel_2 = [
          "precisa da confirmação e do endosso do ‘impresso’",
          "Muitos dos blogs e sites mais influentes...",
      ]},
-    "# Artigo",
-    "Agora veremos artigos, são essenciais (￣∇￣)",
-    "Artigo é a palavra que, vindo antes de um substantivo, indica se ele está sendo empregado de maneira definida ou indefinida. Além disso, o artigo indica, ao mesmo tempo, o gênero e o número dos substantivos.",
-    "Os artigos podem ser definidos ou indefinidos...",
-    "...Os artigos Definidos determinam os substantivos de maneira precisa: o, a, os, as. Por exemplo:",
-    "Eu comprei (o) carro.",
-    "Já os artigos Indefinidos determinam os substantivos de maneira vaga: um, uma, uns, umas. Por exemplo:",
-    "Eu comprei um carro.",
-    "# Adjetivos",
-    "Adjetivo é a palavra que expressa uma qualidade ou característica do ser e se encaixa diretamente ao lado de um substantivo.",
-    "Ao analisarmos a palavra bondoso, por exemplo, percebemos que além de expressar uma qualidade, ela pode ser encaixada diretamente ao lado de um substantivo: homem bondoso, moça bondosa, pessoa bondosa.",
-    "Já com a palavra bondade, embora expresse uma qualidade, não acontece o mesmo; não faz sentido dizer: homem bondade, moça bondade, pessoa bondade. Bondade, portanto, não é adjetivo, mas substantivo.",
-    "E agora mais algumas definições: ",
-    "# Classificação do Adjetivo",
-    "# Explicativo ",
-    "exprime qualidade própria do ser.",
-    "Por exemplo: neve fria.",
-    "# Restritivo",
-    "exprime qualidade que não é própria do ser.",
-    "Por exemplo: fruta madura.",
-    "#Formação do Adjetivo",
-    "Quanto à formação, o adjetivo pode ser:",
-    "# Adjetivo simples",
-    "Formado por um só radical.",
-    "Por exemplo: brasileiro, escuro, magro, cômico.",
-    "# Adjetivo composto",
-    "Formado por mais de um radical.",
-    "Por exemplo: luso-brasileiro, castanho-escuro, amarelo-canário.",
-    "# Adjetivo primitivo",
-    " É aquele que dá origem a outros adjetivos.",
-    "Por exemplo: belo, bom, feliz,  puro.",
-    "# Adjetivo derivado",
-    " É aquele que deriva de substantivos, verbos ou até mesmo de outro adjetivo.",
-    "Por exemplo: belíssimo, bondoso, magrelo.",
-    "Por fim a locução(ou seja, a junção) adjetiva é (as vezes) uma preposição + substantivo tem o mesmo valor de um adjetivo: é a Locução Adjetiva (expressão que equivale a um adjetivo.)",
-    "eis aqui um exemplo: aves da noite (aves noturnas), paixão sem freio (paixão desenfreada). ",
-    "Vamos ver se você aprendeu mesmo...σ(ﾟｰ^*)",
+    '''# Artigo
+Agora veremos artigos, são essenciais (￣∇￣)
+Artigo é a palavra que, vindo antes de um substantivo, indica se ele está sendo empregado de maneira definida ou indefinida. Além disso, o artigo indica, ao mesmo tempo, o gênero e o número dos substantivos.
+Os artigos podem ser definidos ou indefinidos...
+...Os artigos Definidos determinam os substantivos de maneira precisa: o, a, os, as. Por exemplo:
+Eu comprei (o) carro.
+Já os artigos Indefinidos determinam os substantivos de maneira vaga: um, uma, uns, umas. Por exemplo:
+Eu comprei um carro.''',
+    '''# Adjetivos
+Adjetivo é a palavra que expressa uma qualidade ou característica do ser e se encaixa diretamente ao lado de um substantivo.
+Ao analisarmos a palavra bondoso, por exemplo, percebemos que além de expressar uma qualidade, ela pode ser encaixada diretamente ao lado de um substantivo: homem bondoso, moça bondosa, pessoa bondosa.
+Já com a palavra bondade, embora expresse uma qualidade, não acontece o mesmo; não faz sentido dizer: homem bondade, moça bondade, pessoa bondade. Bondade, portanto, não é adjetivo, mas substantivo.
+E agora mais algumas definições:''',
+    '''## Classificação do Adjetivo
+### Explicativo 
+exprime qualidade própria do ser.
+Por exemplo: neve fria.
+### Restritivo
+exprime qualidade que não é própria do ser.
+Por exemplo: fruta madura.''',
+    '''## Formação do Adjetivo
+Quanto à formação, o adjetivo pode ser:
+### Adjetivo simples
+Formado por um só radical.
+Por exemplo: brasileiro, escuro, magro, cômico.
+### Adjetivo composto
+Formado por mais de um radical.
+Por exemplo: luso-brasileiro, castanho-escuro, amarelo-canário.
+### Adjetivo primitivo
+É aquele que dá origem a outros adjetivos.
+Por exemplo: belo, bom, feliz,  puro.
+### Adjetivo derivado
+É aquele que deriva de substantivos, verbos ou até mesmo de outro adjetivo.
+Por exemplo: belíssimo, bondoso, magrelo.
+Por fim a locução(ou seja, a junção) adjetiva é (as vezes) uma preposição + substantivo tem o mesmo valor de um adjetivo: é a Locução Adjetiva (expressão que equivale a um adjetivo.)
+eis aqui um exemplo: aves da noite (aves noturnas), paixão sem freio (paixão desenfreada).''',
+    '''Vamos ver se você aprendeu mesmo...σ(ﾟｰ^*)''',
     {"tipo": "pergunta",
      "texto": "Assinale a oração em que o termo cego(s) é um adjetivo:",
      "solucao": "e",
@@ -303,42 +302,42 @@ nivel_2 = [
          "Naquele instante era só um pobre cego.",
          "... da Terra que é um globo cego girando no caos.",
      ]},
-    "# Pronome",
-    "pronome é a palavra que se usa em lugar do nome, ou a ele se refere, ou ainda, que acompanha o nome qualificando-o de alguma forma.",
-    "Exemplos:",
-    "substituição do nome:",
-    "A moça era mesmo bonita. (Ela) morava nos meus sonhos!",
-    "referência ao nome:",
-    "A moça (que) morava nos meus sonhos era mesmo bonita!",
-    "qualificação do nome",
-    "(Essa) moça morava nos meus sonhos!",
-    "# Pronomes pessoais",
-    "# Pronome reto",
-    "Pronome pessoal do caso reto é aquele que, na sentença, exerce a função de sujeito ou predicativo do sujeito. Por exemplo:",
-    "(Nós) lhe ofertamos flores.",
-    "Fizemos boa viagem. (Nós)",
-    "# Pronome obliquo",
-    "Pronome pessoal do caso oblíquo é aquele que, na sentença, exerce a função de complemento verbal (objeto direto ou  indireto) ou complemento nominal. Por exemplo:",
-    "Ofertaram-nos flores. (objeto indireto)",
-    "# Pronomes demonstrativos",
-    "São aqueles usados para referenciar algo...",
-    "exemplos:",
-    "este, esta, esse, essa, aquele, aquela, aqueles, aquelas etc",
-    "# Pronomes possessivos",
-    "Os pronomes possessivos relacionam-se com os pronomes pessoais, atribuindo-lhes posse. São considerados pronomes adjetivos.",
-    "exemplos:",
-    "meu, minha, tua, teu, seu, seu, seus, teus, vossas, vosso etc",
-    "# Pronomes relativos:",
-    "São aqueles que se referem a um termo anterior, geralmente introduzem uma nova oração. Apresentam formas variáveis e invariáveis:",
-    "as quais, os quais, cujo, o qual, quanto, que, quem, onde etc",
-    "# Pronomes interrogativos",
-    "São aqueles que iniciam perguntas diretas ou indiretas, há os variáveis e os invariáveis:",
-    "Que, quem, qual (quais), quanto (quanta, quantas, quantos)",
-    "# Pronomes indefinidos"
-    "São pronomes indefinidos aqueles que se aplicam à 3ª pessoa do discurso de forma indeterminada ou imprecisa. Eles fazem referência aos substantivos de modo vago, impreciso ou genérico.",
-    "exemplos:",
-    "algums, nenhum, muito, pouco, alguém, ninguém, todos, todas, algumas etc",
-    "# Verbos",
-    "Verbos são palavras que indicam ações, estados ou fenômenos, situando-os no tempo.",
-    "Quanto à estrutura, os verbos são compostos pelo radical (a parte invariável e que normalmente se repete), terminação (a parte que é flexionada) e a vogal temática (que caracteriza a conjugação).",
+    '''# Pronome
+pronome é a palavra que se usa em lugar do nome, ou a ele se refere, ou ainda, que acompanha o nome qualificando-o de alguma forma.
+Exemplos:
+substituição do nome:
+A moça era mesmo bonita. (Ela) morava nos meus sonhos!
+referência ao nome:
+A moça (que) morava nos meus sonhos era mesmo bonita!
+qualificação do nome
+(Essa) moça morava nos meus sonhos!''',
+    '''## Pronomes pessoais
+### Pronome reto
+Pronome pessoal do caso reto é aquele que, na sentença, exerce a função de sujeito ou predicativo do sujeito. Por exemplo:
+(Nós) lhe ofertamos flores.
+Fizemos boa viagem. (Nós)''',
+    '''### Pronome obliquo
+Pronome pessoal do caso oblíquo é aquele que, na sentença, exerce a função de complemento verbal (objeto direto ou  indireto) ou complemento nominal. Por exemplo:
+Ofertaram-nos flores. (objeto indireto)''',
+    '''## Pronomes demonstrativos
+São aqueles usados para referenciar algo...
+exemplos:
+este, esta, esse, essa, aquele, aquela, aqueles, aquelas etc''',
+    '''## Pronomes possessivos
+Os pronomes possessivos relacionam-se com os pronomes pessoais, atribuindo-lhes posse. São considerados pronomes adjetivos.
+exemplos:
+meu, minha, tua, teu, seu, seu, seus, teus, vossas, vosso etc''',
+    '''## Pronomes relativos
+São aqueles que se referem a um termo anterior, geralmente introduzem uma nova oração. Apresentam formas variáveis e invariáveis:
+as quais, os quais, cujo, o qual, quanto, que, quem, onde etc''',
+    '''## Pronomes interrogativos
+São aqueles que iniciam perguntas diretas ou indiretas, há os variáveis e os invariáveis:
+Que, quem, qual (quais), quanto (quanta, quantas, quantos)''',
+    '''## Pronomes indefinidos
+São pronomes indefinidos aqueles que se aplicam à 3ª pessoa do discurso de forma indeterminada ou imprecisa. Eles fazem referência aos substantivos de modo vago, impreciso ou genérico.
+exemplos:
+algums, nenhum, muito, pouco, alguém, ninguém, todos, todas, algumas etc''',
+    '''# Verbos
+Verbos são palavras que indicam ações, estados ou fenômenos, situando-os no tempo.
+Quanto à estrutura, os verbos são compostos pelo radical (a parte invariável e que normalmente se repete), terminação (a parte que é flexionada) e a vogal temática (que caracteriza a conjugação).''',
 ]
