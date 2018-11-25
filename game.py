@@ -43,14 +43,14 @@ def rodarJogo(roteiro):
 
 def telaInicial():
     print('''============================
-|| Gramática com a Neeko! ||
+|| Gramática com a Niko! ||
 ============================
 
-Olá jogador! Está preparado para embarcar numa jornada inesquecível?! Pois a Neeko está pronta para te ajudar!
+Olá jogador! Está preparado para embarcar numa jornada inesquecível?! Pois a Niko está pronta para te ajudar!
 
-Nessa jornada você irá aprender um pouco de gramática com a professora Neeko, intergalaticamente conhecida como a melhor professor de Português!
+Nessa jornada você irá aprender um pouco de gramática com a professora Niko, intergalaticamente conhecida como a melhor professor de Português!
 
-Faixa etária: crianças e adolescente que estão cursando o primeiro ano do ensino médio.
+Faixa etária: crianças e adolescentes que estão cursando o primeiro ano do ensino médio.
 ''')
 
 
