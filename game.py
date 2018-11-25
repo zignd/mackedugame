@@ -1,3 +1,5 @@
+import string
+
 textos = [
     "Olá, sou a professora Niko (≧∀≦) Digamos que eu saiba todos os idiomas do mundo (de fora dele também), se você está com dificuldade em português… eu posso ajudar!",
     "(★≧▽^))★☆",
@@ -40,11 +42,21 @@ Chama-se gramática normativa a gramática que busca ditar ou prescrever as regr
 ]
 
 def main():
-    escolherNivel()
+    # nivel = escolherNivel()
+    # resposta = fazerPergunta({"pergunta": "Em qual das palavras abaixo a letra x apresenta não um, mas dois fonemas?",
+    #  "solucao": "b",
+    #  "alternativas": [
+    #      "exemplo",
+    #      "complexo",
+    #      "próximos",
+    #      "executivo",
+    #      "luxo",
+    #  ]})
+    # print("resposta: {0}".format(resposta))
+    pass
 
 def escolherNivel():
-    print('''
-Escolha o nível em que você deseja jogar:
+    print('''Escolha o nível em que você deseja jogar:
 1. Fácil
 2. Intermediário
 3. Avançado''')
@@ -59,11 +71,28 @@ Escolha o nível em que você deseja jogar:
         else:
             print("Nível inválido. Digite novamente.")
 
+def fazerPergunta(pergunta):
+    print("Pergunta: {0}".format(pergunta["pergunta"]))
+
+    alternativas = pergunta["alternativas"]
+    num_alternativas = len(alternativas)
+    letras_alternativas = list(string.ascii_lowercase[:num_alternativas])
+    for index, letra in enumerate(letras_alternativas):
+        print("{0}) {1}".format(letra, alternativas[index]))
+
+    while True:
+        resposta = input("@> Resposta: ")
+        eh_computavel = resposta in letras_alternativas
+        if eh_computavel == False:
+            print("Sua resposta está num formato inválido. Tente novamente.")
+            continue
+        else:
+            esta_correta = resposta == pergunta["solucao"]
+            return esta_correta
 
 def exibirTexto(texto):
     print(texto)
-    input("[Enter para continuar]")
-
+    input("@> [Enter]")
 
 if __name__ == "__main__":
     main()
