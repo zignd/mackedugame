@@ -340,4 +340,250 @@ algums, nenhum, muito, pouco, alguém, ninguém, todos, todas, algumas etc''',
     '''# Verbos
 Verbos são palavras que indicam ações, estados ou fenômenos, situando-os no tempo.
 Quanto à estrutura, os verbos são compostos pelo radical (a parte invariável e que normalmente se repete), terminação (a parte que é flexionada) e a vogal temática (que caracteriza a conjugação).''',
+'''Quanto à morfologia, classificam-se em:'''
+    '''## Verbos Regulares: quando flexionam-se de acordo com o paradigma da conjugação.
+ESTUDAR – eu estudo, tu estudas, ele estuda, nós estudamos...''',
+
+    '''##Irregulares
+Quando não seguem o paradigma da conjugação:
+CABER – eu caibo... MEDIR – eu meço...''',
+
+    '''##Anômalos
+Quando sofrem modificação também no radical:
+IR – eu vou... SER – eu sou...''',
+
+    '''##Defectivos
+Quando não são conjugados em todas formas:
+FALIR – não possui 1ª, 2ª e 3ª pessoa do pres. do indicativo e pres. do subjuntivo.''',
+
+    '''##Abundantes
+Quando possuem mais de uma forma de conjugação:
+ACENDIDO – ACESO, INCLUÍDO - INCLUSO''',
+    '''Flexionam-se em número para concordar com o sujeito/substantivo que acompanham; em pessoa; em tempo; em modo e em voz.
+Quanto ao número podem ser: Singular e Plural.
+Quanto à pessoa podem ser:
+1ª pessoa – a que fala
+2ª pessoa – com quem se fala
+3ª pessoa – de quem se fala''',
+
+'''Flexionam-se em tempo para indicar o momento em que ocorrem os fatos:'''
+'''O presente é usado para fatos que ocorrem no momento em que se fala, para fatos que ocorrem no dia-a-dia, para fatos que costumam ocorrer com certa frequência.
+Ele escreve para um jornal local.
+Eu estudo português quase todos os dias.''',
+'''Usa-se o pretérito perfeito para indicar fatos passados, observados depois de concluídos.
+Ele escreveu para um jornal local sobre Aquecimento Global.
+Eu estudei francês o ano passado.''',
+'''Usa-se o pretérito imperfeito para indicar fatos não concluídos no momento em que se fala como também para falar de fatos que ocorriam com frequência no passado.
+Ele estudava todos os dias e ainda escrevia para um jornal local.''',
+'''Usa-se o pretérito mais-que-perfeito para indicar fatos passados ocorridos anteriormente a outros fatos passados.
+Já escrevera muitos artigos polêmicos, quando ingressou no jornal local.'''
+'''Usa-se o futuro do presente para falar de fatos ainda não ocorridos, mas que ocorrerão depois que se fala.
+Ela estudará muito e será bem sucedida na profissão.''',
+'''Usa-se o futuro do pretérito para indicar fatos futuros que dependem de outros fatos .
+Ela trabalharia menos, se tivesse estudado mais.
+Eu estudaria francês, se tivesse mais tempo.'''
+'''O modo verbal indica de que forma o fato pode se realizar:
+Modo Indicativo para fato certo: Eu estudo, Nós escreveremos.''',
+'''Modo Subjuntivo para fato hipotético, desejo, dúvida: Se eles trabalhassem...
+Modo Imperativo para ordem, pedido: Trabalhem com afinco...Sejam estudiosos...''',
+'''Há ainda três formas nominais: infinitivo, gerúndio e particípio.''',
+    '''##Vozes verbais
+As vozes verbais indicam se o sujeito pratica ou recebe a ação:
+### Voz ativa
+Quando o sujeito pratica a ação: O professor elogiou o aluno.
+### Voz passiva
+Quando o sujeito recebe a ação: O aluno foi elogiado pelo professor...
+### Voz reflexiva
+Quando o sujeito pratica e recebe a ação: Dedicou-se aos estudos.''',
+'''Chegou a hora mais temida... não se preocupe, você receberá sua recompensa! (ᇴ‿ฺᇴ)''',
+    {"tipo" : "pergunta",
+     "texto":"Neste período: (Talvez os diretores antevejam uma solução para o caso), indique o modo e o tempo do verbo:",
+     "solucao": "a",
+     "alternativas": [
+         "subjuntivo - presente",
+         "indicativo - pretérito",
+         "perfeitosubjuntivo - futuro",
+         "nenhuma das anteriores",
+    ]},
+    {"tipo": "pergunta",
+     "texto": "Nem sempre nós ................... (ir - pretérito imperfeito do indicativo) lá com vontade.Indique a conjugação correta.",
+     "solucao": "b",
+     "alternativas": [
+        "iríamos",
+        "íamos",
+        "fôramos",
+        "vamos",
+    ]},
+'''Agoras vamos aprender um pouco sobre advérbios (人◕ω◕)''',
+'''# Adverbio
+O advérbio é um termo modificador que, de maneira independente, expressa uma circunstância (de lugar, de tempo, de modo, de intensidade, de condição, dentre outras) e desempenha na oração a função de adjunto adverbial. Em geral, as gramáticas classificam o advérbio por sua função como modificador do verbo.''',
+'''Exemplo:
+Ela sempre escrevia notícias de sua cidade. Contava para o mundo como andavam os acontecimentos ali. Narrava os fatos, descrevia as pessoas, criava algumas mentiras, e seguia assim a vida.''',
+'''Palavras que denotam circunstância:
+“sempre”: advérbio de tempo
+“ali”: advérbio de lugar
+“assim”: advérbio de modo''',
+'''A essa função fundamental de modificador, certos advérbios acrescentam outras que lhes são privativas.
+Assim, os chamados advérbios de intensidade e formas semanticamente correlatas podem reforçar o sentindo:
+###De um adjetivo
+Antes de escrever aquela notícia, ela teve com o cidadão uma profunda conversa, muito gratificante e ampla.
+###De um advérbio
+Senti-me bem mal ao ler aquela notícia.
+De uma oração
+Infelizmente, nenhuma notícia daquele texto lhe oferecia bons acontecimentos.
+O uso do advérbio como modificador de uma oração, geralmente ocorre com o termo destacado no início ou no fim da oração. Deste modo, o advérbio pode se separar por uma pausa clara na oralidade, ou registrada na escrita por vírgula.''',
+    '''## Classificação dos advérbios
+    Essencialmente, os advérbios são os termos que assinalam a posição do falante ou o modo como ele verifica a situação. Ou seja, o interlocutor faz uso de expressões adverbiais para marcar sua posição temporal ou espacial, ou ainda o modo como este vê o que está contextualizado na oração.''',
+    '''A Nomenclatura Gramatical Brasileira distingue as seguintes classificações:
+### Advérbios de afirmação
+sim, certamente, efetivamente, realmente, etc.
+###Advérbios de dúvida
+acaso, porventura, possivelmente, provavelmente, quiçá, talvez, etc.
+### Advérbios de intensidade
+bastante, bem, demais, mais, menos, pouco, muito, quanto, quão, quase, tanto, tão, etc.
+Advérbios de lugar
+ abaixo, acima, adiante, aí, além, ali, aquém, aqui, atrás, através, cá, defronte, dentro, detrás, fora, junto, lá, longe, onde, perto, etc.
+### Advérbios de modo
+assim, bem, debalde, depressa, devagar, mal, melhor, pior e quase todos terminados em –mente: fielmente, levemente, etc.
+### Advérbios de negação
+não
+### Advérbios de tempo
+agora, ainda, amanhã, anteontem, antes, breve, cedo, depois, então, hoje, já, jamais, logo, nunca, ontem, outrora, sempre, tarde, etc.''',
+'''No primeiro caso, os advérbios são denotados pelas classificações listadas acima (tempo, lugar, por exemplo). Já no critério classificatório funcional, os advérbios se apresentarão pelo caráter demonstrativo (aqui, aí, então, agora), relativo (onde, como, quando, etc), e interrogativos (quando?, onde?, como?)''',
+    '''## Locução adverbial
+Denomina-se locução adverbial o conjunto de duas ou mais palavras que funciona com advérbio. Dessa maneira, as locuções adverbiais são compostas por uma preposição com um substantivo, com um adjetivo ou com um advérbio, Assim:
+A criança chorou em silêncio.''',
+'''As locuções adverbiais podem ser:
+### Afirmação (ou duvida)
+com certeza, por certo, sem dúvida.
+### Intensidade
+ de muito, de pouco, de todo, etc.
+### Lugar
+à direita, à esquerda, à distância, ao lado, de dentro, de cima, de longe, de perto, em cima, para dentro, para onde, por ali, por aqui, por dentro, por fora, por onde, por perto, etc.
+### Modo
+à toa, à vontade, ao contrário, ao léu, às avessas, às claras, às direitas, às pressas, com gosto, com amor, de bom grado, de cor, de má vontade, de regra, em geral, em silêncio, em vão, gota a gota, passo a passo, por acaso, etc.
+### Negação
+de forma alguma, de modo nenhum, etc.
+### Tempo
+à noite, à tarde, à tardinha, de dia, de manhã, de noite, de quando em quando, de vez em quando, de tempos em tempos, em breve, pela manhã, etc.''',
+'''Vamos exercitar (e ganhar pontos!!!!) (❍ᴥ❍ʋ)''',
+    {"tipo" : "pergunta",
+     "texto": '''Observe as palavras:
+
+        I. Hoje.
+        II. Aqui.
+        III. Rapidamente.
+        IV. Bastante.
+        V. Com certeza.
+        Classificam-se, respectivamente, como:''',
+     "solucao": "a",
+     "alternativas": [
+        "advérbios de tempo, lugar, modo, intensidade e afirmação.",
+        "advérbios de modo, tempo, intensidade, afirmação e negação.",
+        "advérbios de dúvida, tempo, lugar, modo e intensidade.",
+        "advérbios de tempo, lugar, modo, afirmação e dúvida.",
+        "advérbios de dúvida, afirmação, lugar, modo e intensidade.",
+    ]},
+'''Já estamos em preposição! ༼☯﹏☯༽''',
+    '''#Preposição
+A preposição é uma palavra invariável que liga dois termos da oração, subordinando um ao outro. A preposição estabelece ainda, uma certa relação de dependência entre elas.
+    É uma questão fácil de resolver''',
+'''É possível percebermos que o termo introduzido por preposição pode estar se referindo a um verbo ou a um nome. Observe os casos em que a preposição pode estar ligando duas orações de um período, subordinando uma à outra:
+Fiz de tudo para te esquecer.
+Foi advertido por estar se comportando mal.''',
+'''## Preposições essenciais
+São palavras que funcionam basicamente como preposição: a, ante, até, após, de, desde, em, entre, com, contra, para, por, perante, sem, sobe e sob.
+''',
+'''## Preposições acidentais
+São palavras de outras classes gramaticais que, perdendo sua significação original, passam a exercer o papel de preposição: como, conforme, segundo, durante, fora, exceto etc..
+''',
+'''## Locução prepositiva
+Chamamos de locução prepositiva o conjunto de palavras com valor e emprego de preposições: atrás de, através de, embaixo de, a fim de, de acordo com, por causa de, longe de, perto de, ao redor de, junto a, ao lado de, apesar de, por trás de, acerca de, cerca de, em favor de, de conformidade com etc.
+Eram agradáveis para com os amigos
+A proposta estava de acordo com o pedido''',
+'''As preposições podem estabelecer variadas relações entre os termos que ligam.
+### Eprego das preposições
+Chegou de carro (meio)
+Voltou de Pirapetinga (origem)
+Saiu com os colegas (companhia)
+Vivia sem dignidade (falta ou ausência)
+Trabalhava para sobreviver (finalidade)
+Morava em um local deserto (lugar)
+Morreu de desgosto (causa)
+Usava um vestido de algodão (matéria)
+O carro de Margarida é antigo (posse)
+Conversamos sobre cinema (assunto)''',
+'''Na linguagem formal, não se deve fazer a contração da preposição de com o artigo que encabeça o sujeito de um verbo.
+Está na hora de a criança ir brincar (E não: Está na hora da criança ir brincar)
+No exemplo, a criança é o sujeito do verbo brincar, por isso não podemos contrair a preposição de com o artigo a que encabeça o sujeito. Essa regra vale também para pronomes pessoais:
+Chegou a hora de ele sair . ( E não: Chegou a hora dele sair)
+Sendo assim, ele é sujeito do verbo sair, por isso não se pode contrair a preposição com o sujeito. O sujeito é sempre o termo regente. O termo que antecede a preposição é denominado regente; o termo introduzido por uma preposição é denominado regido. O sujeito é sempre termo regente, o que significa que não pode vir introduzido por preposição.''',
+'''Aposto que você acerta essa aqui （๑♜д♜）''',
+    {"tipo": "pergunta",
+     "texto": '''Assinale a alternativa que indica corretamente o valor semântico das preposições em destaque nas frases:
+        I. Ele sempre cuidou da família com muita dedicação.
+        II. Com a doença do pai, ela voltou para a cidade natal.
+        III. Desde pequenos, os príncipes eram preparados para a liderança.
+        IV. A pequena casa de madeira foi destruída a machado.''',
+     "solucao": "d",
+     "alternativas": [
+        "modo – companhia – modo – modo",
+        "causa – modo – finalidade – instrumento",
+        "modo – modo – causa – causa",
+        "modo – causa – finalidade – instrumento",
+        "companhia – causa – semelhança – modo",
+     ]},
+
+    '''#Conjunção
+Assim como a preposição, a conjunção é um importante elemento de conexão entre as orações. A conjunção é uma palavra invariável que liga duas orações ou dois termos semelhantes de uma mesma oração.''',
+'''O garoto segurou o brinquedo e mostrou quando chegou da escola.
+A partir do exemplo podemos analisar três informações:
+O garoto segurou o brinquedo.
+O garoto mostrou.
+O garoto chegou da escola.
+Logo, a segunda oração está ligada à primeira por meio do "e", e a terceira oração liga-se à segunda por meio do "quando". As palavras "e" e "quando" ligam, portanto, orações.''',
+'''Agora algumas definições:
+### Conjunções aditivas - expressam soma
+e, mas ainda, mas também, nem...
+### Conjunções adversativas - expressam oposição
+contudo, entretanto, mas, não obstante, no entanto, porém, todavia...
+### Conjunções alternativas - expressam alternância
+já…, já…, ou, ou…, ou…, ora…, ora…, quer…, quer…	
+### Conjunções conclusivas - expressam conclusão
+assim, então, logo, pois (depois do verbo), por conseguinte, por isso, portanto...
+### Conjunções explicativas - expressam explicação
+pois (antes do verbo), porquanto, porque, que...''',
+'''##Conjunções subordinativas
+As conjunções subordinativas são os termos que ligam duas orações sintaticamente dependentes.
+### causais
+Porque, pois, porquanto, como (no sentido de porque), pois que, por isso que, á que, uma vez que, visto que, visto como, que
+### Concessivas
+Embora, conquanto, ainda que, mesmo que, posto que, bem que, se bem que , apesar de que, nem que, que.
+### Condicionais
+Se, caso, quando, conquanto que, salvo se, sem que, dado que, desde que, a menos que, a não ser que.
+### Conformativas
+Conforme, como (no sentido de conforme), segundo, consoante.
+### Finais
+Para que, a fim de que, porque (no sentido de que), que.
+### Proporcionais
+À medida que, ao passo que, à proporção que, enquanto, quanto mais... (no sentido de mais), quanto mais... (no sentido de tanto mais), quanto mais... (no sentido de menos), quanto menos... (no sentido de menos), quanto menos... (no sentido de tanto menos), quanto menos (no sentido de mais), quanto menos (tanto mais).
+### Temporais
+Quando, antes que, depois que, até que, logo que, sempre que, assim que, desde que, todas as vezes que, cada vez que, apenas, mal, que (desde que).
+### Comparativas
+Que, do que (usado depois de mais, menos, maior, menor, melhor, pior), Qual (usado depois de tal)
+### Consecutivas
+Que (precedido de tão, tal, tanto), De modo que, De maneira que
+### Integrantes
+que e se.''',
+'''E agora para finalizar... (ﾉ≧ڡ≦)''',
+    {"tipo": "pergunta",
+     "texto": "As duas orações do período estão unidas pela conjunção “e”, que, nesse caso, além de indicar ideia de adição, também indica ideia de:",
+     "solucao": "c",
+     "alternativas": [
+        "condição.",
+        "oposição.",
+        "consequência.",
+        "adversidade.",
+        "comparação.",
+]}
 ]
